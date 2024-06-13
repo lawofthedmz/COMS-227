@@ -18,71 +18,61 @@ In COMS-227, you will learn the principles of object-oriented programming using 
 
 ## Projects
 
-### Project 1: Greeter
-- **Description:** Brief description of the project.
-- **Objectives:** Key learning objectives.
+### Lab 1: Greeter 
 
-### Project 2: [Project Title]
-- **Description:** Brief description of the project.
-- **Objectives:** Key learning objectives.
+### Lab 2: Intro to Classes
 
-### Project 3: [Project Title]
-- **Description:** Brief description of the project.
-- **Objectives:** Key learning objectives.
-- **Due Date:** MM/DD/YYYY
+### Lab 3: JUnit
 
-### Project 4: [Project Title]
-- **Description:** Brief description of the project.
-- **Objectives:** Key learning objectives.
-- **Due Date:** MM/DD/YYYY
+### Lab 4: Eclipse Debugger
 
-### Project 5: [Project Title]
-- **Description:** Brief description of the project.
-- **Objectives:** Key learning objectives.
-- **Due Date:** MM/DD/YYYY
+### Lab 5: Loops
 
-### Project 6: [Project Title]
-- **Description:** Brief description of the project.
-- **Objectives:** Key learning objectives.
-- **Due Date:** MM/DD/YYYY
+### Lab 6: Scanner
 
-### Project 7: [Project Title]
-- **Description:** Brief description of the project.
-- **Objectives:** Key learning objectives.
-- **Due Date:** MM/DD/YYYY
+### Lab 7: Recursion
 
-### Project 8: [Project Title]
-- **Description:** Brief description of the project.
-- **Objectives:** Key learning objectives.
-- **Due Date:** MM/DD/YYYY
+### Lab 8: Polymorphism
 
 ## Homework Assignments
 
-### Homework 1: [Assignment Title]
-- **Description:** Brief description of the assignment.
-- **Objectives:** Key learning objectives.
-- **Due Date:** MM/DD/YYYY
+### Homework 1: Hotair Balloon
+- **Description:** For this assignment you will create a hot air balloon simulator. Specifically, you are
+implementing a single class called Balloon, that models the flight of a hot air balloon taking
+multiple factors into account, for example: the mass of the balloon, outside air temperature,
+available fuel, rate of fuel burn, etc.
 
-### Homework 2: [Assignment Title]
-- **Description:** Brief description of the assignment.
-- **Objectives:** Key learning objectives.
+### Homework 2: Fuzzball Game
+- **Description:** The purpose of this assignment is to give you lots of practice working with conditional logic and
+managing the internal state of a class. You'll create one class, called FuzzballGame, that is a
+model of an obscure game played with a ball and a stick1 . Although there is some resemblance to
+the American game of baseball, it's probably best if you forget everything you know about
+baseball as you read these instructions. Your job is to implement the rules of the game that is
+specified in this document even if that conflicts with your understanding of any other baseball
+game rules.
 
-### Homework 3: [Assignment Title]
-- **Description:** Brief description of the assignment.
-- **Objectives:** Key learning objectives.
+### Homework 3: Lizard Game
+- **Description:** The purpose of this assignment is to give you lots of practice working with conditional logic and
+managing the internal state of a class. You'll create one class, called FuzzballGame, that is a
+model of an obscure game played with a ball and a stick1 . Although there is some resemblance to
+the American game of baseball, it's probably best if you forget everything you know about
+baseball as you read these instructions. Your job is to implement the rules of the game that is
+specified in this document even if that conflicts with your understanding of any other baseball
+game rules.
 
-### Homework 4: [Assignment Title]
-- **Description:** Brief description of the assignment.
-- **Objectives:** Key learning objectives.
+### Homework 4: Abstract Element
+- **Description:** n this project you will complete the implementation of a hierarchy of classes representing
+various types of elements in a video game. Your task is to implement these eight concrete classes:
+SimpleElement, AttachedElement, FlyingElement, FollowerElement, LiftElement, MovingElement, PlatformElement, VanishingElement
 
 ## Installation and Setup
 
 To set up the environment for this course, follow these steps:
 
-1. Install [programming language] from [official website].
+1. Install java from https://www.java.com/download/ie_manual.jsp.
 2. Clone the repository to your local machine:
     ```sh
-    git clone https://github.com/yourusername/coms-227.git
+    git clone https://github.com/lawofthedmz/coms-227.git
     ```
 3. Navigate to the project directory:
     ```sh
@@ -118,4 +108,4 @@ We welcome contributions to improve this course. To contribute, please follow th
 
 ## License
 
-This course material is licensed under the [LICENSE NAME]. See the [LICENSE](LICENSE) file for more details.
+This course material is licensed under the MIT License.
