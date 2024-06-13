@@ -1,6 +1,6 @@
-# COMS-227: Introduction to Object-Oriented Coding
+# COMS-227: Introduction to Object-Oriented Coding 
 
-Welcome to COMS-227! This course is designed to introduce you to the fundamentals of object-oriented programming (OOP). Throughout this course, you will complete a series of projects and homework assignments to help you understand and apply OOP concepts.
+Welcome to COMS-227 ISU! This course was designed to introduce you to the fundamentals of object-oriented programming (OOP). Throughout this course, I completed a series of projects and homework assignments to help me understand and apply OOP concepts.
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@ Welcome to COMS-227! This course is designed to introduce you to the fundamental
 
 ## Course Overview
 
-In COMS-227, you will learn the principles of object-oriented programming using Java. The course includes eight (nine, but I skipped one) projects and four homework assignments, each designed to reinforce the concepts discussed in lectures.
+In COMS-227, I  learned the principles of object-oriented programming using Java. The course includes eight (nine, but I skipped one) projects and four homework assignments, each designed to reinforce the concepts discussed in lectures.
 
 ## Projects
 
@@ -82,29 +82,6 @@ To set up the environment for this course, follow these steps:
     ```sh
     [Then install dependencies]
     ```
-
-## Usage
-
-Each project and homework assignment includes a detailed README file with instructions on how to run and test your code. Navigate to the respective directories to find these instructions.
-
-## Contribution Guidelines
-
-We welcome contributions to improve this course. To contribute, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch:
-    ```sh
-    git checkout -b feature/your-feature-name
-    ```
-3. Commit your changes:
-    ```sh
-    git commit -m "Add some feature"
-    ```
-4. Push to the branch:
-    ```sh
-    git push origin feature/your-feature-name
-    ```
-5. Open a pull request.
 
 ## License
 
