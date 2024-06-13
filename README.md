@@ -80,7 +80,7 @@ To set up the environment for this course, follow these steps:
     ```
 4. Install the required dependencies:
     ```sh
-    [command to install dependencies]
+    [Then install dependencies]
     ```
 
 ## Usage
