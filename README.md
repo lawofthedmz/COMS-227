@@ -65,24 +65,4 @@ game rules.
 various types of elements in a video game. Your task is to implement these eight concrete classes:
 SimpleElement, AttachedElement, FlyingElement, FollowerElement, LiftElement, MovingElement, PlatformElement, VanishingElement
 
-## Installation and Setup
 
-To set up the environment for this course, follow these steps:
-
-1. Install java from https://www.java.com/download/ie_manual.jsp.
-2. Clone the repository to your local machine:
-    ```sh
-    git clone https://github.com/lawofthedmz/coms-227.git
-    ```
-3. Navigate to the project directory:
-    ```sh
-    cd coms-227
-    ```
-4. Install the required dependencies:
-    ```sh
-    [Then install dependencies]
-    ```
-
-## License
-
-This course material is licensed under the MIT License.
