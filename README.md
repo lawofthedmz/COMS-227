@@ -1,6 +1,6 @@
 # COMS-227: Introduction to Object-Oriented Coding 
 
-Welcome to COMS-227 ISU! This course was designed to introduce you to the fundamentals of object-oriented programming (OOP). Throughout this course, I completed a series of projects and homework assignments to help me understand and apply OOP concepts.
+This course was designed to introduce you to the fundamentals of object-oriented programming (OOP). Throughout this course, I completed a series of projects and homework assignments to help me understand and apply OOP concepts.
 
 ## Table of Contents
 
